@@ -1,0 +1,40 @@
+bolt 45
+washer 3
+screw 67
+screw 23
+nail 5
+screw 78
+bolt 5
+bolt 1
+drill 1
+drill 1
+washer 56
+washer 7
+
+bolt	51
+bolt	17
+drill	2
+drill	1
+nail	5
+nail	5
+screw	168
+screw	56
+washer	66
+washer	22
+
+bolt	63
+bolt	21
+drill	2
+drill	0
+nail	7
+nail	2
+screw	210
+screw	70
+washer	82
+washer	27
+
+
+
+
+
+

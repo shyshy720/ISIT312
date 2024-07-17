@@ -1,0 +1,8 @@
+bolt,2.23
+screw,3.5
+nut,1.25
+washer,2.5
+nail,0.4
+fastener,4.1
+pin,10.05
+coupler,9.95

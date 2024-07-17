@@ -1,0 +1,86 @@
+312复习
+
+HDFS
+create folder:
+put file into hadoop:
+remove file:
+list file:
+
+———————————————————————
+MapReduce
+Map
+
+Shuffle and sort 
+
+Redcue
+
+———————————————————————
+
+HIVE, HQL shell command（like sql statement）
+create internal taable:
+create external table:
+array:
+map:
+struct:
+
+Load data file:
+
+Query statement:
+
+Select
+From
+Join ON
+Where 
+Group
+
+———————————————————————
+
+HBase
+Create table:
+
+Load sample data into table:
+
+
+Query statement:
+filter(valuefilter/singlecolumnfilter):
+delete ccolumn family:
+modify table attribute(version):
+to delete column:
+
+———————————————————————
+
+Pig Latin(container)
+Load data file & create table:
+
+Query statement
+select single coulmns:
+filter:
+avg:
+count:
+
+Group by:
+Join:
+difference:
+limit:
+
+Dump container_name
+———————————————————————
+Spark
+RDDs
+create rdds:
+generate key-value pair:
+collection action to return result:
+collect:
+
+
+Dataset
+create class:
+read in file:
+split file into line or key-value pair:
+
+
+DataFrame
+read in file, read in data, process data:
+count：
+create logic view:
+sql query(sum query):
